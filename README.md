@@ -17,4 +17,4 @@ For more information on installing/using Go: https://golang.org/cmd/go/
 
 ## ToDo
 
-- [] FIX >> The "s" string to stick conflicts with the default save behaviour of the compiled executable
+- [ ] FIX >> The "s" string to stick conflicts with the default save behaviour of the compiled executable
